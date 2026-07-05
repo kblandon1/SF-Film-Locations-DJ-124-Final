@@ -1,9 +1,15 @@
-# SF-Film-Locations-DJ-124-Final
+# San Francisco in the Film/TV Industry From the 1910s to Present
 
-introduction
+## Origins of the Data Set & Challenges
 
-## Subheading
+The data set for this project was sourced from [San Francisco Open Data](https://data.sfgov.org/d/yitu-d5am)—a website that hosts data collected by a myriad of San Francisco city and county agencies. The data source is largely trustworthy, but there was some cleaning necessary before I could begin to analyze the data. In the data set there were three enteries that were duplicates of another one; these were removed in the cleaned version of the data. In addition to duplicate entries, there was a lack of information about the genre of the project. Including such information would be especially interesting to understand the landscape of how the city itself is portrayed in film and media. Outside of these items, there are largely not any major red flags that would point to this data set as being worthy of being characterized as untrustworthy. 
 
-more text
+## Data Analysis
 
-[San Francisco Open Data] (https://data.sfgov.org/d/yitu-d5am)
+When I began cleaning the data there were specific charts I had in mind that I already wanted to make. To assist in this process I created some additional rows (whose titles are highlighted in red) to make it easier for me to make legible charts later. I first simplified the years of the productions into decades as there were over 100 unique enteries, which I knew would be very difficult to visualize. Secondly, I combined the distributors pairing all of the subsidiaries with their parent companies to better analyze the presence of major production houses in San Francisco. While doing this, I learned that while only 62 projects, of the 2071 that had data listed in the "Distributor" column were labeled as "TBD" at the time of filming, when I attempted to find the top 10 distributors, "TBD" popped up as the 8th most popular distributor. As this is not actually a distributor, but rather a lack of one, I eventually made the decision to exclude TBD when making my chart of the top 10 distributors. I also thought it was interesting that the top three actors associated with each project were listed on the data set as well, and while I did not choose to visualize this, I do believe it might be interesting for someone to do so. Additionally, though useless for my purposes, I found it interesting that the data set included fun facts about the specific filming locations when they were available. Here is a link to my [Google Sheet](https://docs.google.com/spreadsheets/d/1UJgnK7XiFNg8O8iHF1dlrZNkj_cTlqHjD5EZsje4YQ8/edit?usp=sharing).
+
+## Data Visualizations
+
+## Final Summary
+
+At the end of this project, I do not have any major ethical concerns with the data set. I do not believe the data itself could easily be used to stigmatize or misrepresent communties, but I do believe the final product could have the potential to do so, although that is seperate from the data. Data wise, the data may point to some neighborhoods as being more desirable to film in on the basis of the sheer quantity of projects filmed there, but ultimately it is a largely subjective decision where a director or writer chooses to set/film their production. Although, there are aspects of the data that I would consider to be missing. Including the intended genre of the production—whether it be a documentary, a comedy, an action film, or etc.—would improve the depth that one could analyze the data at. It would be interesting to compare what types of productions are filmed here, and what the city is most popularly associated with. Continuing along this line, I also believe budget and length of time spent filming at the specific location would be interesting things to include, as the earlier would provide an economic dimension to the data and the latter would provide greater insight into the time frame of the project beyond the year.
